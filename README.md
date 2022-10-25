@@ -1,2 +1,2 @@
-[Rule]
-DOMAIN,www.apple.com,DIRECT
+local
+
