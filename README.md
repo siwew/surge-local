@@ -1,2 +1,2 @@
-# surge-local
-111
+[Rule]
+DOMAIN,www.apple.com,DIRECT
