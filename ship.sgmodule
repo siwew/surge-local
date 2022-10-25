@@ -1,2 +1,5 @@
+#本地规则补充
+
+
 [Rule]
 DOMAIN,www.apple.com,DIRECT
