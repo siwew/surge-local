@@ -1,6 +1,6 @@
-#!name=SLEET CONFIG
-#本地规则补充
+#!name=Skip Proxy Lists Sleet
+#!desc=自定义跳过代理列表
 
 
-[Rule]
-DOMAIN,sequoia.apple.com,DIRECT
+[General]
+ship-proxy = %APPEND% sequoia.apple.com, *.test
