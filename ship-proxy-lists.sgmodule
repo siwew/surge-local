@@ -3,7 +3,7 @@
 
 
 [General]
-skip-proxy = %APPEND% sequoia.apple.com, *.test
+skip-proxy = %APPEND% sequoia.apple.com, *.test, 52.8.190.205
 
 ## sequoia.apple.com 系统翻译
 ##  *.test 本地环境
